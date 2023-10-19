@@ -12,7 +12,7 @@ function handleReplaceButtonClick() {
         if (url.includes("watch?v=")) {
             alert("This video is already a video.");
             return;
- 
+        }
         // Check if the URL already contains "shorts/" and replace it with "watch?v="
         var newUrl = url.replace("shorts/", "watch?v=");
 
