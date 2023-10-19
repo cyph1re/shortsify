@@ -1,5 +1,6 @@
 
-![icon128](https://github.com/cyph1re/shortsify/assets/78970761/3d1e13dc-0b0e-45e9-837f-f210d138e6b6)
+![icon128](https://github.com/cyph1re/shortsify/assets/78970761/a7ea9bdf-6724-45d4-a8f1-7720086b5b68)
+
 
 
 # Shortsify
