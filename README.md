@@ -1,13 +1,22 @@
-![icon128](https://github.com/cyph1re/shortsify/assets/78970761/7522c783-80dc-4fd0-8adc-014a6e461a36)
-Shortsify - chromium extension
 
-Very simple and lightweight chromium based extension that opens a YouTube short as a Youtube VIDEO in a new tab, giving the ability to seek, control volume etc.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-INSTALLATION
 
-Download the repository code and extract the zip
-Navigate to chrome://extensions
-Load unpacked -> Select the extracted folder
+# Shortsify
 
-Whenever required, click the extension icon and tap Replace Keyword
+Simple, lightweight, Chromium-based extension to open YouTube shorts in the desktop version (youtube.com) as YouTube videos, adding the functionality of seeking durations, and adjusting volume of a normal video.
+
+Works by replacing "shorts" of URL with "watch?v="
+## Installation
+
+1. Download the source code from https://github.com/cyph1re/shortsify/archive/refs/heads/main.zip
+
+2. Extract the .zip file to a folder/directory
+
+3. Navigate to chrome/brave/firefox/edge://extensions
+
+4. Enable developer mode and Click on "Load Unpacked"
+5. Open the extracted folder with the source code
+
+6. The extension should now appear in your Extensions tab!
 
