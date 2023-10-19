@@ -1,3 +1,7 @@
+function isYouTubeURL(url) {
+    return /^https:\/\/www\.youtube\.com\//.test(url);
+}
+
 function handleReplaceButtonClick() {
     chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
         var currentTab = tabs[0];
@@ -33,10 +37,6 @@ function handleReplaceButtonClick() {
             }, 3000); // 3000 milliseconds (3 seconds) delay before pausing the video in t1
         });
     });
-}
-
-function isYouTubeURL(url) {
-    return /^https:\/\/www\.youtube\.com\//.test(url);
 }
 
 // Add a click event listener to the "replace-button" element when the DOM is fully loaded
