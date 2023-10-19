@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![icon128](https://github.com/cyph1re/shortsify/assets/78970761/3d1e13dc-0b0e-45e9-837f-f210d138e6b6)
 
 
 # Shortsify
