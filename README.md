@@ -4,7 +4,7 @@
 
 # Shortsify
 
-Simple, lightweight, Chromium-based extension to open YouTube shorts in the desktop version (youtube.com) as YouTube videos, adding the functionality of seeking durations, and adjusting volume of a normal video.
+Simple, lightweight, Chromium-based extension written in Javascript to open YouTube shorts in the desktop version (youtube.com) as YouTube videos, adding the functionality of seeking durations, and adjusting volume of a normal video.
 
 Works by replacing "shorts" of URL with "watch?v="
 ## Installation
